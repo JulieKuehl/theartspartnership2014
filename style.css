@@ -1,0 +1,63 @@
+/*
+Theme Name:     The Arts Partnership 2014
+Description:    Custom theme The Arts Partnership 2014 using the parent theme Creative Blog Responsive
+Version:        1.0
+Author:         Julie Kuehl
+Author URI:     http://www.juliekuehl.com
+Template:       CreativeBlogRes
+*/
+
+@import url("../CreativeBlogRes/style.css");
+
+
+/* Theme customization starts here ---------------------------------------------------------------- */
+
+.sticky {
+    background: #cacaca;
+}
+
+h1, h2, h3, h4, h5, h6,
+a, a:hover { color: #1a8a6d; }
+
+.header_social_icons { float: left; }
+
+/* AdRotate modifications */
+.banner_ad {
+    margin-bottom: 30px;
+}
+
+.block_outer {
+    border: 0;
+    margin: 0;
+}
+
+.block_inner {
+    border: 0;
+    margin: 0;
+}
+
+.b-1 {
+    border: 0;
+    margin: 0 0 30px 0;
+}
+
+.b-2 {
+    max-width: 980px;
+    border: 0;
+    margin: 0 0 30px 0;
+}
+
+.a-2 {
+    border: 0;
+    margin: 0 0 0 25px;
+}
+
+.clear_l {
+    border: 0;
+    margin: 0;
+}
+
+.post-image img {
+    max-width: 644px;
+    margin-bottom: 50px;
+}
